@@ -29,6 +29,9 @@ Exit the program gracefully.
 6. Exit
 -----------------------------------------
 Enter your choice:
+<br>
 Follow the prompts to manage your tasks.
+<br>
 Enter task details when prompted.
+<br>
 Tasks are displayed with their number for easy selection.
